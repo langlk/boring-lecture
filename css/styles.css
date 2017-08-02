@@ -13,18 +13,15 @@ h1 {
   width: 60%;
   margin-right: auto;
   margin-left: auto;
+  color: #604020;
+  font-weight: bold;
 }
 
-h2.intro {
+.intro h2 {
   font-style: italic;
   color: #996633;
 }
 
-p.intro {
-  font-weight: bold;
-  color: #604020;
-}
-
-img.intro {
-  display: block;
+.intro img {
+  width: 100%;
 }
